@@ -2,10 +2,10 @@
 Este repositório tem por finalidade fazer um tratamento de dados relacionados as estatísticas do trabalho em 2020 / 2021, principalmente em estados afetadas pelo Corona Vírus. 
 
 # Autores:
-([Kevin Melo](https://github.com/kevingabrielmelo/) e [Luiz Miguel](https://github.com/Salitop/))
+[Kevin Melo](https://github.com/kevingabrielmelo/) e [Luiz Miguel](https://github.com/Salitop/)
 
 # Fonte dos dados:
-([Novo CAGED - Janeiro de 2021](http://pdet.mte.gov.br/novo-caged/novo-caged-2021/novo-caged-janeiro-2021)
+[Novo CAGED - Janeiro de 2021](http://pdet.mte.gov.br/novo-caged/novo-caged-2021/novo-caged-janeiro-2021)
 
 # User Stories
 ![User Stories](https://github.com/kevingabrielmelo/Analise-de-estatisticas-do-trabalho-caged/blob/master/userStories/UserStories.png)
