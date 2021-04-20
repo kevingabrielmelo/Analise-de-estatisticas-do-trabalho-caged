@@ -8,7 +8,7 @@ Este repositório tem por finalidade fazer um tratamento de dados relacionados a
 ([Novo CAGED - Janeiro de 2021](http://pdet.mte.gov.br/novo-caged/novo-caged-2021/novo-caged-janeiro-2021)
 
 # User Stories
-![User Stories](https://github.com/kevingabrielmelo/Analise-de-estatisticas-do-trabalho-caged/userStories/UserStories.png)
+![User Stories](https://github.com/kevingabrielmelo/Analise-de-estatisticas-do-trabalho-caged/blob/master/userStories/UserStories.png)
 
 # Rodando a aplicação
 
