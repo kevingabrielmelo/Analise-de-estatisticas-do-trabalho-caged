@@ -36,5 +36,5 @@ jupyter notebook
 ```
 
 # Conclusão
-Após a realização do trabalho podemos tirar algumas conclusões sobre a situação Brasil, em relação a desempregabilidade no Brasil já relacionando com a pandemia do Corona Vírus. Estados grandes como São Paulo e Rio de Janeiro, no ápice, sofreram muito com a pandemia, mas, vem voltando aos poucos a atingir bons saldos positivos na empregabilidade. Contudo, estados como Manaus, que foi muito citado durante toda essa fase conturbada, ainda sofrem com a desempregabilidade alta 😕. 
-Aos poucos o Brasil se reencontra no caminho da empregabilidade. É também notório a participação do Home Office nessas estatísticas; São Paulo pouco sofreu durante a maior parte da pandemia pela sua rápida adaptação ao estilo trabalho de casa. 
+Após a realização do trabalho podemos tirar algumas conclusões sobre a situação Brasil, em relação a taxa de empregabilidade no Brasil já relacionando com a pandemia do Corona Vírus. Estados grandes como São Paulo e Rio de Janeiro, no ápice, sofreram muito com a pandemia, mas, vem voltando aos poucos a atingir bons saldos positivos de emprego. Contudo, estados como Manaus, que foi muito citado durante toda essa fase conturbada, ainda sofrem com a desempregabilidade alta 😕. 
+É também notório a participação do Home Office nessas estatísticas; São Paulo pouco sofreu durante a maior parte da pandemia pela sua rápida adaptação ao estilo trabalho de casa. 
