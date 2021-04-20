@@ -1,5 +1,5 @@
 # Análise de estatíscas do trabalho caged 2020 e 2021.
-Este repositório tem por finalidade fazer um tratamento de dados relacionados as estatísticas do trabalho em 2020 / 2021, principalmente em estados afetadas pelo Corona Vírus. 
+Este repositório tem por finalidade fazer um tratamento de dados relacionados as estatísticas do trabalho em 2020 / 2021, principalmente em estados bem afetados pelo Corona Vírus. 
 
 # Autores:
 [Kevin Gabriel Alves de Melo](https://github.com/kevingabrielmelo/) e [Luiz Miguel Macedo Andre](https://github.com/Salitop/)
